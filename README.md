@@ -9,7 +9,7 @@
 
 ## 🏆 My Activity
 * I am a Third year Pharmaceutical Sciences Student, at  Kyung Hee University (KHU).
-* I am currently working on 42seoul subjects (South Korea branch of 42 ecole)
+* I was working on 42seoul subjects (South Korea branch of 42 ecole)
 
 ### 📔 My Blog
 <a href="https://polar-pencil-5de.notion.site/42seoul-ce96329314574c71bbe5d0852a51c2b8" target="_blank"><img src="https://img.shields.io/badge/Blog-000000?style=flag-square&logo=notion&logoColor=white"/></a>
